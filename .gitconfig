@@ -1,0 +1,5 @@
+[user]
+	email = adusumilli.sriharsha2@gmail.com
+	name = harsha-cpu
+[http]
+	proxy = http://proxyuser:proxypwd@proxy.server.com:8080
